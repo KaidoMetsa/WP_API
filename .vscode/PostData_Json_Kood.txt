@@ -1,0 +1,5 @@
+{
+  "title": "Your Post Title",
+  "content": "Your post content goes here.",
+  "status": "publish"
+}
